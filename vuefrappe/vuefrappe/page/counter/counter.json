@@ -1,0 +1,23 @@
+{
+ "content": null,
+ "creation": "2019-09-26 18:03:01.515842",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2019-09-26 18:04:50.782297",
+ "modified_by": "Administrator",
+ "module": "Vuefrappe",
+ "name": "counter",
+ "owner": "Administrator",
+ "page_name": "counter",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Counter"
+}

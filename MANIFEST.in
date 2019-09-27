@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include vuefrappe *.css
+recursive-include vuefrappe *.csv
+recursive-include vuefrappe *.html
+recursive-include vuefrappe *.ico
+recursive-include vuefrappe *.js
+recursive-include vuefrappe *.json
+recursive-include vuefrappe *.md
+recursive-include vuefrappe *.png
+recursive-include vuefrappe *.py
+recursive-include vuefrappe *.svg
+recursive-include vuefrappe *.txt
+recursive-exclude vuefrappe *.pyc
